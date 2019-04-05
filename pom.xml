@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.schoeby</groupId>
 	<artifactId>spring-boot-barcode-decoder</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.1.1-SNAPSHOT</version>
 	<name>spring-boot-barcode-decoder</name>
 	<description>A Spring Boot app to decode barcode information from images using zxing.</description>
 
