@@ -3,6 +3,7 @@ A Spring Boot app to decode barcode information from images using zxing.
 
 ### Generate jar file
 mvn clean
+
 mvn package
 
 ### Run the app
